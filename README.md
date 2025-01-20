@@ -1,25 +1,63 @@
 # IMDB-Review-Sentiment-LSTM-GRU
-IMDb Sentiment Analysis using LSTM and GRU
 
-This repository contains a sentiment analysis project for IMDb movie reviews, implemented using Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU) models. The goal of this project is to predict the sentiment (positive or negative) of movie reviews from IMDb's large dataset.
+IMDb Sentiment Analysis with LSTM and GRU
 
-
-
-Features:
-LSTM (Long Short-Term Memory): A type of Recurrent Neural Network (RNN) that is effective in learning long-term dependencies in sequential data.
+This project leverages deep learning models, specifically Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU), to perform sentiment analysis on IMDb movie reviews. The objective is to classify the sentiment of each review as positive or negative using these powerful sequential models.
 
 
-GRU (Gated Recurrent Unit): A simpler variant of LSTM that is computationally efficient while maintaining performance.
 
 
-Preprocessing: Includes text preprocessing steps such as tokenization, padding, and word embedding for deep learning models.
+Models Used:
 
 
-Model Performance: Comparison of the performance of LSTM and GRU on the IMDb dataset.
+LSTM (Long Short-Term Memory): A type of Recurrent Neural Network (RNN) capable of learning long-range dependencies in sequence data, making it effective for tasks like sentiment analysis.
 
 
-Requirements:
-Python 3.x
+Train Accuracy: 97%
+
+
+Test Accuracy: 88%
+
+
+
+GRU (Gated Recurrent Unit): A simpler variant of LSTM that performs similarly while being more computationally efficient. GRUs are less prone to overfitting on smaller datasets.
+
+
+Train Accuracy: 93%
+
+
+Test Accuracy: 89%
+
+
+
+Key Highlights:
+
+
+Text Preprocessing: The reviews are tokenized, padded, and embedded to create a meaningful representation of the text for the model.
+
+
+Performance Comparison: The LSTM model achieved slightly higher training accuracy, while the GRU model performed slightly better on the test data, indicating its ability to generalize better to unseen data.
+
+
+Dataset: IMDb movie reviews dataset containing a balanced set of positive and negative reviews.
+
+
+
+Libraries and Tools:
+
+
+Python
+
+
 TensorFlow/Keras
+
+
 Numpy, Pandas
+
+
 Scikit-learn
+
+
+
+This project demonstrates how to apply deep learning techniques to real-world text classification tasks, showcasing the strengths of LSTM and GRU in handling sequential data.
+
