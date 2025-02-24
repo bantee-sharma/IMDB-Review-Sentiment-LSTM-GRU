@@ -30,7 +30,7 @@ Test Accuracy: 89%
 
 
 
-Key Highlights:
+**Key Highlights:**
 
 
 Text Preprocessing: The reviews are tokenized, padded, and embedded to create a meaningful representation of the text for the model.
