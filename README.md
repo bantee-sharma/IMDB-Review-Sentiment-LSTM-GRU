@@ -20,7 +20,7 @@ Test Accuracy: 88%
 
 
 
-GRU (Gated Recurrent Unit): A simpler variant of LSTM that performs similarly while being more computationally efficient. GRUs are less prone to overfitting on smaller datasets.
+**GRU (Gated Recurrent Unit):** A simpler variant of LSTM that performs similarly while being more computationally efficient. GRUs are less prone to overfitting on smaller datasets.
 
 
 Train Accuracy: 93%
