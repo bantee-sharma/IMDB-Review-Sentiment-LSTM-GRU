@@ -1,6 +1,6 @@
 # IMDB-Review-Sentiment-LSTM-GRU
 
-IMDb Sentiment Analysis with LSTM and GRU
+**IMDb Sentiment Analysis with LSTM and GRU**
 
 This project leverages deep learning models, specifically Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU), to perform sentiment analysis on IMDb movie reviews. The objective is to classify the sentiment of each review as positive or negative using these powerful sequential models.
 
