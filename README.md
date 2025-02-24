@@ -43,7 +43,7 @@ Dataset: IMDb movie reviews dataset containing a balanced set of positive and ne
 
 
 
-Libraries and Tools:
+**Libraries and Tools:**
 
 
 Python
