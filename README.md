@@ -46,7 +46,7 @@ Dataset: IMDb movie reviews dataset containing a balanced set of positive and ne
 **Libraries and Tools:**
 
 
-Python
+**Python**
 
 
 TensorFlow/Keras
