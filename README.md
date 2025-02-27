@@ -13,7 +13,7 @@ This project leverages deep learning models, specifically Long Short-Term Memory
 LSTM (Long Short-Term Memory): A type of Recurrent Neural Network (RNN) capable of learning long-range dependencies in sequence data, making it effective for tasks like sentiment analysis.
 
 
-Train Accuracy: 97%
+**Train Accuracy: 97%**
 
 
 Test Accuracy: 88%
