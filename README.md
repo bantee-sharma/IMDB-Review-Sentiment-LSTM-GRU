@@ -23,7 +23,7 @@ LSTM (Long Short-Term Memory): A type of Recurrent Neural Network (RNN) capable 
 **GRU (Gated Recurrent Unit):** A simpler variant of LSTM that performs similarly while being more computationally efficient. GRUs are less prone to overfitting on smaller datasets.
 
 
-Train Accuracy: 93%**
+**Train Accuracy: 93%**
 
 
 Test Accuracy: 89%
