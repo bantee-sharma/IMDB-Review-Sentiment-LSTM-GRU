@@ -16,7 +16,7 @@ LSTM (Long Short-Term Memory): A type of Recurrent Neural Network (RNN) capable 
 **Train Accuracy: 97%**
 
 
-Test Accuracy: 88%
+**Test Accuracy: 88%**
 
 
 
